@@ -1,0 +1,12 @@
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-top: 5%;">
+  <div *ngFor="let i of products" class="card" style="width: 18rem; ">
+
+    <div class="card-body">
+      <h5 class="card-title">{{i.name}}</h5>
+      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      <a [routerLink]="['/singleProduct',i.id]" class="btn btn-primary">Show Details</a>
+    </div>
+  </div>
+  </div>
+
+
