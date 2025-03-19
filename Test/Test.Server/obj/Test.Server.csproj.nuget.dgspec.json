@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Orange\\source\\repos\\Test\\Test.Server\\Test.Server.csproj": {}
+    "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\Test\\Test.Server\\Test.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Orange\\source\\repos\\Test\\Test.Server\\Test.Server.csproj": {
+    "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\Test\\Test.Server\\Test.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Orange\\source\\repos\\Test\\Test.Server\\Test.Server.csproj",
+        "projectUniqueName": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\Test\\Test.Server\\Test.Server.csproj",
         "projectName": "Test.Server",
-        "projectPath": "C:\\Users\\Orange\\source\\repos\\Test\\Test.Server\\Test.Server.csproj",
+        "projectPath": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\Test\\Test.Server\\Test.Server.csproj",
         "packagesPath": "C:\\Users\\Orange\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Orange\\source\\repos\\Test\\Test.Server\\obj\\",
+        "outputPath": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\Test\\Test.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

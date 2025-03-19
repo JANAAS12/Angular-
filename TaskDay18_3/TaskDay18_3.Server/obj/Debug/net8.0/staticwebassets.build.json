@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "FshF3QuX9c6XEQ6XvKo75QFipWoIA/t7MOT04HWn2Wc=",
+  "Source": "TaskDay18_3.Server",
+  "BasePath": "_content/TaskDay18_3.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\taskday18_3.client.esproj",
+      "Version": 2,
+      "Source": "taskday18_3.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

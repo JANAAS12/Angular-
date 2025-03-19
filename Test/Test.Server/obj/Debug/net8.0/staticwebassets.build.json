@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "5DEpTNKCiraDVBX5TztnqNsoCT4W9x8ieLQ31wZyIyQ=",
+  "Hash": "Xyc9fSlgmzoZpxVU6mdkYhjv+QvbIy+aAsv6ynl2kiE=",
   "Source": "Test.Server",
   "BasePath": "_content/Test.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\Orange\\source\\repos\\Test\\test.client\\test.client.esproj",
+      "Identity": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\Test\\test.client\\test.client.esproj",
       "Version": 2,
       "Source": "test.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

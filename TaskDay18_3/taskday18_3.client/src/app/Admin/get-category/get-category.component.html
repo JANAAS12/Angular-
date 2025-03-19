@@ -1,0 +1,17 @@
+<table class="table" border="1">
+  <thead class="table-dark">
+    <tr>
+      <th>Id</th>
+      <th>Name</th>
+      <th>Image</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let Category of category;">
+     
+      <td>{{Category.id}}</td>
+      <td>{{Category.name}}</td>
+      <td>{{Category.img}}</td>
+    </tr>
+  </tbody>
+</table>

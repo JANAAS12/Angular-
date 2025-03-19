@@ -14,7 +14,7 @@ export class ServiceService {
  
 
   getProductData() {
-    return this.http.get<any[]>("https://67cd64b6dd7651e464ee3d63.mockapi.io/products");
+    return this.http.get<any>("https://67cd64b6dd7651e464ee3d63.mockapi.io/products");
   }
 
   getSelectedProductData(id: number) {
