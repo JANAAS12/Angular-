@@ -1,0 +1,21 @@
+<table class="table" border="1">
+  <thead class="table-dark">
+    <tr>
+      <th>CategoryId</th>
+      <th>Name</th>
+      <th>Image</th>
+      <th>ID</th>
+      <th>Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of Product;">
+
+      <td>{{item.categoryId}}</td>
+      <td>{{item.name}}</td>
+      <td>{{item.avatar}}</td>
+      <td>{{item.id}}</td>
+      <td><button routerLink="/dashboard/editProduct/{{item.id}}" data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-block mb-4">Edit</button></td>
+    </tr>
+  </tbody>
+</table>

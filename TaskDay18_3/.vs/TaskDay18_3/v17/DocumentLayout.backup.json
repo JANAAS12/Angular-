@@ -1,61 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday18_3\\taskday18_3.client\\src\\app\\admin\\get-products\\get-products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|c:\\users\\orange\\desktop\\angular1\\angular-\\taskday18_3\\taskday18_3.client\\src\\app\\admin\\get-products\\get-products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|solutionrelative:taskday18_3.client\\src\\app\\admin\\get-products\\get-products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday18_3\\taskday18_3.client\\src\\app\\admin\\get-products\\get-products.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|c:\\users\\orange\\desktop\\angular1\\angular-\\taskday18_3\\taskday18_3.client\\src\\app\\admin\\get-products\\get-products.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|solutionrelative:taskday18_3.client\\src\\app\\admin\\get-products\\get-products.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday18_3\\taskday18_3.client\\src\\app\\admin\\get-category\\get-category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|c:\\users\\orange\\desktop\\angular1\\angular-\\taskday18_3\\taskday18_3.client\\src\\app\\admin\\get-category\\get-category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|solutionrelative:taskday18_3.client\\src\\app\\admin\\get-category\\get-category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday18_3\\taskday18_3.client\\src\\app\\admin\\get-category\\get-category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|c:\\users\\orange\\desktop\\angular1\\angular-\\taskday18_3\\taskday18_3.client\\src\\app\\admin\\get-category\\get-category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|solutionrelative:taskday18_3.client\\src\\app\\admin\\get-category\\get-category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday18_3\\taskday18_3.client\\src\\app\\admin\\add-products\\add-products.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|c:\\users\\orange\\desktop\\angular1\\angular-\\taskday18_3\\taskday18_3.client\\src\\app\\admin\\add-products\\add-products.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|solutionrelative:taskday18_3.client\\src\\app\\admin\\add-products\\add-products.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday18_3\\taskday18_3.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|c:\\users\\orange\\desktop\\angular1\\angular-\\taskday18_3\\taskday18_3.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|solutionrelative:taskday18_3.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday18_3\\taskday18_3.client\\src\\app\\admin\\add-products\\add-products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|c:\\users\\orange\\desktop\\angular1\\angular-\\taskday18_3\\taskday18_3.client\\src\\app\\admin\\add-products\\add-products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|solutionrelative:taskday18_3.client\\src\\app\\admin\\add-products\\add-products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday18_3\\taskday18_3.client\\src\\app\\admin\\add-category\\add-category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|c:\\users\\orange\\desktop\\angular1\\angular-\\taskday18_3\\taskday18_3.client\\src\\app\\admin\\add-category\\add-category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|solutionrelative:taskday18_3.client\\src\\app\\admin\\add-category\\add-category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday18_3\\taskday18_3.client\\src\\app\\admin\\add-category\\add-category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|c:\\users\\orange\\desktop\\angular1\\angular-\\taskday18_3\\taskday18_3.client\\src\\app\\admin\\add-category\\add-category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|solutionrelative:taskday18_3.client\\src\\app\\admin\\add-category\\add-category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday18_3\\taskday18_3.client\\src\\app\\sevice.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|c:\\users\\orange\\desktop\\angular1\\angular-\\taskday18_3\\taskday18_3.client\\src\\app\\sevice.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|solutionrelative:taskday18_3.client\\src\\app\\sevice.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday18_3\\taskday18_3.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|c:\\users\\orange\\desktop\\angular1\\angular-\\taskday18_3\\taskday18_3.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|solutionrelative:taskday18_3.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday18_3\\taskday18_3.client\\src\\app\\admin\\dashbord\\dashbord.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|c:\\users\\orange\\desktop\\angular1\\angular-\\taskday18_3\\taskday18_3.client\\src\\app\\admin\\dashbord\\dashbord.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|solutionrelative:taskday18_3.client\\src\\app\\admin\\dashbord\\dashbord.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday18_3\\taskday18_3.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|c:\\users\\orange\\desktop\\angular1\\angular-\\taskday18_3\\taskday18_3.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|solutionrelative:taskday18_3.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday18_3\\taskday18_3.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|c:\\users\\orange\\desktop\\angular1\\angular-\\taskday18_3\\taskday18_3.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A9223DBB-ABDF-4215-A1DA-23B048C67F26}|taskday18_3.client\\taskday18_3.client.esproj|solutionrelative:taskday18_3.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -76,63 +76,59 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "app-routing.module.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\src\\app\\app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\taskday18_3.client\\src\\app\\app-routing.module.ts",
               "RelativeDocumentMoniker": "taskday18_3.client\\src\\app\\app-routing.module.ts",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\taskday18_3.client\\src\\app\\app-routing.module.ts",
               "RelativeToolTip": "taskday18_3.client\\src\\app\\app-routing.module.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-18T23:40:09.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T23:40:09.6Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "get-products.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\get-products\\get-products.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\get-products\\get-products.component.ts",
               "RelativeDocumentMoniker": "taskday18_3.client\\src\\app\\Admin\\get-products\\get-products.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\get-products\\get-products.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\get-products\\get-products.component.ts",
               "RelativeToolTip": "taskday18_3.client\\src\\app\\Admin\\get-products\\get-products.component.ts",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-19T00:55:15.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T00:55:15.368Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "get-category.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\get-category\\get-category.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\get-category\\get-category.component.ts",
               "RelativeDocumentMoniker": "taskday18_3.client\\src\\app\\Admin\\get-category\\get-category.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\get-category\\get-category.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\get-category\\get-category.component.ts",
               "RelativeToolTip": "taskday18_3.client\\src\\app\\Admin\\get-category\\get-category.component.ts",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-19T00:27:59.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T00:27:59.533Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "get-category.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\get-category\\get-category.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\get-category\\get-category.component.html",
               "RelativeDocumentMoniker": "taskday18_3.client\\src\\app\\Admin\\get-category\\get-category.component.html",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\get-category\\get-category.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\get-category\\get-category.component.html",
               "RelativeToolTip": "taskday18_3.client\\src\\app\\Admin\\get-category\\get-category.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-19T00:37:08.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T00:37:08.772Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "get-products.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\get-products\\get-products.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\get-products\\get-products.component.html",
               "RelativeDocumentMoniker": "taskday18_3.client\\src\\app\\Admin\\get-products\\get-products.component.html",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\get-products\\get-products.component.html*",
-              "RelativeToolTip": "taskday18_3.client\\src\\app\\Admin\\get-products\\get-products.component.html*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\get-products\\get-products.component.html",
+              "RelativeToolTip": "taskday18_3.client\\src\\app\\Admin\\get-products\\get-products.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-03-19T01:00:59.674Z",
               "EditorCaption": ""
@@ -141,87 +137,81 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "add-products.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\add-products\\add-products.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\add-products\\add-products.component.ts",
               "RelativeDocumentMoniker": "taskday18_3.client\\src\\app\\Admin\\add-products\\add-products.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\add-products\\add-products.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\add-products\\add-products.component.ts",
               "RelativeToolTip": "taskday18_3.client\\src\\app\\Admin\\add-products\\add-products.component.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-19T02:06:21.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T02:06:21.07Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "add-category.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\add-category\\add-category.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\add-category\\add-category.component.html",
               "RelativeDocumentMoniker": "taskday18_3.client\\src\\app\\Admin\\add-category\\add-category.component.html",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\add-category\\add-category.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\add-category\\add-category.component.html",
               "RelativeToolTip": "taskday18_3.client\\src\\app\\Admin\\add-category\\add-category.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-19T01:51:18.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T01:51:18.939Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "add-products.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\add-products\\add-products.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\add-products\\add-products.component.html",
               "RelativeDocumentMoniker": "taskday18_3.client\\src\\app\\Admin\\add-products\\add-products.component.html",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\add-products\\add-products.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\add-products\\add-products.component.html",
               "RelativeToolTip": "taskday18_3.client\\src\\app\\Admin\\add-products\\add-products.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-19T02:08:28.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T02:08:28.621Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "add-category.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\add-category\\add-category.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\add-category\\add-category.component.ts",
               "RelativeDocumentMoniker": "taskday18_3.client\\src\\app\\Admin\\add-category\\add-category.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\add-category\\add-category.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\add-category\\add-category.component.ts",
               "RelativeToolTip": "taskday18_3.client\\src\\app\\Admin\\add-category\\add-category.component.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-19T01:45:58.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T01:45:58.394Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "sevice.service.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\src\\app\\sevice.service.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\taskday18_3.client\\src\\app\\sevice.service.ts",
               "RelativeDocumentMoniker": "taskday18_3.client\\src\\app\\sevice.service.ts",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\src\\app\\sevice.service.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\taskday18_3.client\\src\\app\\sevice.service.ts",
               "RelativeToolTip": "taskday18_3.client\\src\\app\\sevice.service.ts",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-19T00:24:24.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T00:24:24.886Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "app.module.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\src\\app\\app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\taskday18_3.client\\src\\app\\app.module.ts",
               "RelativeDocumentMoniker": "taskday18_3.client\\src\\app\\app.module.ts",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\taskday18_3.client\\src\\app\\app.module.ts",
               "RelativeToolTip": "taskday18_3.client\\src\\app\\app.module.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-18T23:58:34.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T23:58:34.641Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "dashbord.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\dashbord\\dashbord.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\dashbord\\dashbord.component.html",
               "RelativeDocumentMoniker": "taskday18_3.client\\src\\app\\Admin\\dashbord\\dashbord.component.html",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\dashbord\\dashbord.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\taskday18_3.client\\src\\app\\Admin\\dashbord\\dashbord.component.html",
               "RelativeToolTip": "taskday18_3.client\\src\\app\\Admin\\dashbord\\dashbord.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -231,9 +221,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\src\\index.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\taskday18_3.client\\src\\index.html",
               "RelativeDocumentMoniker": "taskday18_3.client\\src\\index.html",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\taskday18_3.client\\src\\index.html",
               "RelativeToolTip": "taskday18_3.client\\src\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -243,9 +233,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "app.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\src\\app\\app.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\taskday18_3.client\\src\\app\\app.component.html",
               "RelativeDocumentMoniker": "taskday18_3.client\\src\\app\\app.component.html",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay18_3\\taskday18_3.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular1\\Angular-\\TaskDay18_3\\taskday18_3.client\\src\\app\\app.component.html",
               "RelativeToolTip": "taskday18_3.client\\src\\app\\app.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",

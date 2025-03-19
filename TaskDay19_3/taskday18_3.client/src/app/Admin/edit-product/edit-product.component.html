@@ -1,0 +1,39 @@
+
+<form #editproduct="ngForm" (ngSubmit)="updateProductData(editproduct.value)">
+  <div data-mdb-input-init class="form-outline mb-4">
+    <label class="form-label" for="form2Example2">Product id</label>
+    <input ngModel name="id" [(ngModel)]="productContainer.id" type="text" id="form2Example2" class="form-control" />
+
+  </div>
+
+  <div data-mdb-input-init class="form-outline mb-4">
+    <label class="form-label" for="form2Example1">Product Name</label>
+    <input ngModel name="name" [(ngModel)]="productContainer.name" type="text" id="form2Example1" class="form-control" />
+
+  </div>
+
+  <div data-mdb-input-init class="form-outline mb-4">
+    <label class="form-label" for="form2Example2">Product Image</label>
+    <input ngModel name="avatar" [(ngModel)]="productContainer.avatar" type="text" id="form2Example2" class="form-control" />
+
+  </div>
+  <div data-mdb-input-init class="form-outline mb-4">
+    <label class="form-label" for="form2Example2">Category Id</label>
+    <input ngModel name="categoryId" [(ngModel)]="productContainer.categoryId" type="text" id="form2Example2" class="form-control" />
+
+  </div>
+
+  <!-- 2 column grid layout for inline styling -->
+  <div class="row mb-4">
+    <div class="col d-flex justify-content-center">
+
+    </div>
+
+
+  </div>
+
+  <!-- Submit button -->
+  <button type="submit" data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-block mb-4">Edit Product</button>
+
+
+</form>

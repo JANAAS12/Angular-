@@ -1,0 +1,34 @@
+
+<form #editcategory="ngForm" (ngSubmit)="updateCategoryData(editcategory.value)">
+  <div data-mdb-input-init class="form-outline mb-4">
+    <label class="form-label" for="form2Example2">Category id</label>
+    <input ngModel name="id" [(ngModel)]="categoryContainer.id" type="text" id="form2Example2" class="form-control" />
+
+  </div>
+
+  <div data-mdb-input-init class="form-outline mb-4">
+    <label class="form-label" for="form2Example1">Category Name</label>
+    <input ngModel name="name" [(ngModel)]="categoryContainer.name"  type="text" id="form2Example1" class="form-control" />
+
+  </div>
+
+  <div data-mdb-input-init class="form-outline mb-4">
+    <label class="form-label" for="form2Example2">Category Image</label>
+    <input ngModel name="img" [(ngModel)]="categoryContainer.img" type="text" id="form2Example2" class="form-control" />
+
+  </div>
+
+  <!-- 2 column grid layout for inline styling -->
+  <div class="row mb-4">
+    <div class="col d-flex justify-content-center">
+
+    </div>
+
+
+  </div>
+
+  <!-- Submit button -->
+  <button type="submit" data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-block mb-4">Edit category</button>
+
+
+</form>
