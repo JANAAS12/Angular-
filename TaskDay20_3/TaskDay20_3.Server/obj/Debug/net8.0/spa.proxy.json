@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:59557",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\TaskDay20_3.Server\\..\\taskday20_3.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

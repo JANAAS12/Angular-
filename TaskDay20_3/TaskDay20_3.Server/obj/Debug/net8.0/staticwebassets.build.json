@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "lPe+SJM4I4Zf8oTyRHf9qrvmdOoqxtFxCleq68/bJlg=",
+  "Source": "TaskDay20_3.Server",
+  "BasePath": "_content/TaskDay20_3.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\taskday20_3.client.esproj",
+      "Version": 2,
+      "Source": "taskday20_3.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

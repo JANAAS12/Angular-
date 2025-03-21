@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday20_3\\taskday20_3.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|solutionrelative:taskday20_3.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday20_3\\taskday20_3.client\\src\\app\\sign-up\\sign-up.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|solutionrelative:taskday20_3.client\\src\\app\\sign-up\\sign-up.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday20_3\\taskday20_3.client\\src\\app\\profile\\profile.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|solutionrelative:taskday20_3.client\\src\\app\\profile\\profile.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday20_3\\taskday20_3.client\\src\\app\\edit-profile\\edit-profile.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|solutionrelative:taskday20_3.client\\src\\app\\edit-profile\\edit-profile.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday20_3\\taskday20_3.client\\src\\app\\profile\\profile.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|solutionrelative:taskday20_3.client\\src\\app\\profile\\profile.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday20_3\\taskday20_3.client\\src\\app\\edit-profile\\edit-profile.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|solutionrelative:taskday20_3.client\\src\\app\\edit-profile\\edit-profile.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday20_3\\taskday20_3.client\\src\\app\\profile\\profile.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|solutionrelative:taskday20_3.client\\src\\app\\profile\\profile.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday20_3\\taskday20_3.client\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|solutionrelative:taskday20_3.client\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday20_3\\taskday20_3.client\\src\\app\\sign-up\\sign-up.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|solutionrelative:taskday20_3.client\\src\\app\\sign-up\\sign-up.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday20_3\\taskday20_3.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|solutionrelative:taskday20_3.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday20_3\\taskday20_3.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|solutionrelative:taskday20_3.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday20_3\\taskday20_3.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|solutionrelative:taskday20_3.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday20_3\\taskday20_3.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|solutionrelative:taskday20_3.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday20_3\\taskday20_3.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|solutionrelative:taskday20_3.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday20_3\\taskday20_3.client\\src\\app\\service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|solutionrelative:taskday20_3.client\\src\\app\\service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|c:\\users\\orange\\source\\repos\\taskday20_3\\taskday20_3.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16D4D678-9CA0-4C2F-8AB4-D6CC7FA9B643}|taskday20_3.client\\taskday20_3.client.esproj|solutionrelative:taskday20_3.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "profile.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\profile\\profile.component.html",
+              "RelativeDocumentMoniker": "taskday20_3.client\\src\\app\\profile\\profile.component.html",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\profile\\profile.component.html",
+              "RelativeToolTip": "taskday20_3.client\\src\\app\\profile\\profile.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-20T22:25:29.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "edit-profile.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\edit-profile\\edit-profile.component.ts",
+              "RelativeDocumentMoniker": "taskday20_3.client\\src\\app\\edit-profile\\edit-profile.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\edit-profile\\edit-profile.component.ts",
+              "RelativeToolTip": "taskday20_3.client\\src\\app\\edit-profile\\edit-profile.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-20T22:58:43.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "edit-profile.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\edit-profile\\edit-profile.component.html",
+              "RelativeDocumentMoniker": "taskday20_3.client\\src\\app\\edit-profile\\edit-profile.component.html",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\edit-profile\\edit-profile.component.html",
+              "RelativeToolTip": "taskday20_3.client\\src\\app\\edit-profile\\edit-profile.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-20T22:52:58.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\login\\login.component.html",
+              "RelativeDocumentMoniker": "taskday20_3.client\\src\\app\\login\\login.component.html",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\login\\login.component.html",
+              "RelativeToolTip": "taskday20_3.client\\src\\app\\login\\login.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-20T14:24:00.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "profile.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\profile\\profile.component.css",
+              "RelativeDocumentMoniker": "taskday20_3.client\\src\\app\\profile\\profile.component.css",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\profile\\profile.component.css",
+              "RelativeToolTip": "taskday20_3.client\\src\\app\\profile\\profile.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-20T22:26:50.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sign-up.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\sign-up\\sign-up.component.html",
+              "RelativeDocumentMoniker": "taskday20_3.client\\src\\app\\sign-up\\sign-up.component.html",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\sign-up\\sign-up.component.html",
+              "RelativeToolTip": "taskday20_3.client\\src\\app\\sign-up\\sign-up.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-20T14:24:46.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "profile.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\profile\\profile.component.ts",
+              "RelativeDocumentMoniker": "taskday20_3.client\\src\\app\\profile\\profile.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\profile\\profile.component.ts",
+              "RelativeToolTip": "taskday20_3.client\\src\\app\\profile\\profile.component.ts",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwC4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-20T22:32:30.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "login.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\login\\login.component.ts",
+              "RelativeDocumentMoniker": "taskday20_3.client\\src\\app\\login\\login.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\login\\login.component.ts",
+              "RelativeToolTip": "taskday20_3.client\\src\\app\\login\\login.component.ts",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-20T14:26:15.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "sign-up.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\sign-up\\sign-up.component.ts",
+              "RelativeDocumentMoniker": "taskday20_3.client\\src\\app\\sign-up\\sign-up.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\sign-up\\sign-up.component.ts",
+              "RelativeToolTip": "taskday20_3.client\\src\\app\\sign-up\\sign-up.component.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-20T22:04:56.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "taskday20_3.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "taskday20_3.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-20T14:25:23.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "taskday20_3.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "taskday20_3.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-20T14:25:59.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "navbar.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\navbar\\navbar.component.html",
+              "RelativeDocumentMoniker": "taskday20_3.client\\src\\app\\navbar\\navbar.component.html",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\navbar\\navbar.component.html",
+              "RelativeToolTip": "taskday20_3.client\\src\\app\\navbar\\navbar.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-20T23:16:25.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "home.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\home\\home.component.html",
+              "RelativeDocumentMoniker": "taskday20_3.client\\src\\app\\home\\home.component.html",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\home\\home.component.html",
+              "RelativeToolTip": "taskday20_3.client\\src\\app\\home\\home.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-20T23:21:35.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "taskday20_3.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "taskday20_3.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-20T22:09:46.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "service.service.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\service.service.ts",
+              "RelativeDocumentMoniker": "taskday20_3.client\\src\\app\\service.service.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\app\\service.service.ts",
+              "RelativeToolTip": "taskday20_3.client\\src\\app\\service.service.ts",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-20T14:29:48.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\index.html",
+              "RelativeDocumentMoniker": "taskday20_3.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay20_3\\taskday20_3.client\\src\\index.html",
+              "RelativeToolTip": "taskday20_3.client\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-20T14:26:41.828Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
