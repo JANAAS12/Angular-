@@ -1,0 +1,21 @@
+<table class="table" border="1">
+  <thead class="table-dark">
+    <tr>
+      <th>Id</th>
+      <th>Name</th>
+      <th>Quantity</th>
+      <th>Price</th>
+      <th>Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let i of vouchers">
+
+      <td>{{i.id}}</td>
+      <td>{{i.name}}</td>
+      <td>{{i.quantity}}</td>
+      <td>{{i.price}}</td>
+      <td><button routerLink="/dashboard/editVoucher/{{i.id}}" data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-block mb-4">Edit</button></td>
+    </tr>
+  </tbody>
+</table>

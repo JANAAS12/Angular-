@@ -1,0 +1,36 @@
+
+<form #editVoucher="ngForm" (ngSubmit)="editVouchersData(editVoucher.value)">
+
+
+  <div data-mdb-input-init class="form-outline mb-4">
+    <label class="form-label" for="form2Example1">Voucher Name</label>
+    <input ngModel name="name" [(ngModel)]="voucherContainer.name" type="text" id="form2Example1" class="form-control" />
+
+  </div>
+
+  <div data-mdb-input-init class="form-outline mb-4">
+    <label class="form-label" for="form2Example2">Voucher price</label>
+    <input ngModel name="price" [(ngModel)]="voucherContainer.price" type="text" id="form2Example2" class="form-control" />
+
+  </div>
+  <div data-mdb-input-init class="form-outline mb-4">
+    <label class="form-label" for="form2Example2">Voucher Quantity</label>
+    <input ngModel name="quantity" [(ngModel)]="voucherContainer.quantity" type="text" id="form2Example2" class="form-control" />
+
+  </div>
+
+  <!-- 2 column grid layout for inline styling -->
+  <div class="row mb-4">
+    <div class="col d-flex justify-content-center">
+
+    </div>
+
+
+  </div>
+
+  <!-- Submit button -->
+  <button type="submit" data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-block mb-4">Add Voucher</button>
+
+
+</form>
+

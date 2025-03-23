@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\TaskDay23_3_2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C32E648C-EF9D-4DD4-BA65-39B2BB2240F0}|taskday23_3_2025.client\\taskday23_3_2025.client.esproj|c:\\users\\orange\\source\\repos\\taskday23_3_2025\\taskday23_3_2025.client\\src\\app\\admin\\dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C32E648C-EF9D-4DD4-BA65-39B2BB2240F0}|taskday23_3_2025.client\\taskday23_3_2025.client.esproj|solutionrelative:taskday23_3_2025.client\\src\\app\\admin\\dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32E648C-EF9D-4DD4-BA65-39B2BB2240F0}|taskday23_3_2025.client\\taskday23_3_2025.client.esproj|c:\\users\\orange\\source\\repos\\taskday23_3_2025\\taskday23_3_2025.client\\src\\app\\admin\\edit-voucher\\edit-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C32E648C-EF9D-4DD4-BA65-39B2BB2240F0}|taskday23_3_2025.client\\taskday23_3_2025.client.esproj|solutionrelative:taskday23_3_2025.client\\src\\app\\admin\\edit-voucher\\edit-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32E648C-EF9D-4DD4-BA65-39B2BB2240F0}|taskday23_3_2025.client\\taskday23_3_2025.client.esproj|c:\\users\\orange\\source\\repos\\taskday23_3_2025\\taskday23_3_2025.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C32E648C-EF9D-4DD4-BA65-39B2BB2240F0}|taskday23_3_2025.client\\taskday23_3_2025.client.esproj|solutionrelative:taskday23_3_2025.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32E648C-EF9D-4DD4-BA65-39B2BB2240F0}|taskday23_3_2025.client\\taskday23_3_2025.client.esproj|c:\\users\\orange\\source\\repos\\taskday23_3_2025\\taskday23_3_2025.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C32E648C-EF9D-4DD4-BA65-39B2BB2240F0}|taskday23_3_2025.client\\taskday23_3_2025.client.esproj|solutionrelative:taskday23_3_2025.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32E648C-EF9D-4DD4-BA65-39B2BB2240F0}|taskday23_3_2025.client\\taskday23_3_2025.client.esproj|c:\\users\\orange\\source\\repos\\taskday23_3_2025\\taskday23_3_2025.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C32E648C-EF9D-4DD4-BA65-39B2BB2240F0}|taskday23_3_2025.client\\taskday23_3_2025.client.esproj|solutionrelative:taskday23_3_2025.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32E648C-EF9D-4DD4-BA65-39B2BB2240F0}|taskday23_3_2025.client\\taskday23_3_2025.client.esproj|c:\\users\\orange\\source\\repos\\taskday23_3_2025\\taskday23_3_2025.client\\src\\app\\admin\\edit-voucher\\edit-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C32E648C-EF9D-4DD4-BA65-39B2BB2240F0}|taskday23_3_2025.client\\taskday23_3_2025.client.esproj|solutionrelative:taskday23_3_2025.client\\src\\app\\admin\\edit-voucher\\edit-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32E648C-EF9D-4DD4-BA65-39B2BB2240F0}|taskday23_3_2025.client\\taskday23_3_2025.client.esproj|c:\\users\\orange\\source\\repos\\taskday23_3_2025\\taskday23_3_2025.client\\src\\app\\admin\\add-voucher\\add-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C32E648C-EF9D-4DD4-BA65-39B2BB2240F0}|taskday23_3_2025.client\\taskday23_3_2025.client.esproj|solutionrelative:taskday23_3_2025.client\\src\\app\\admin\\add-voucher\\add-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32E648C-EF9D-4DD4-BA65-39B2BB2240F0}|taskday23_3_2025.client\\taskday23_3_2025.client.esproj|c:\\users\\orange\\source\\repos\\taskday23_3_2025\\taskday23_3_2025.client\\src\\app\\service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C32E648C-EF9D-4DD4-BA65-39B2BB2240F0}|taskday23_3_2025.client\\taskday23_3_2025.client.esproj|solutionrelative:taskday23_3_2025.client\\src\\app\\service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32E648C-EF9D-4DD4-BA65-39B2BB2240F0}|taskday23_3_2025.client\\taskday23_3_2025.client.esproj|c:\\users\\orange\\source\\repos\\taskday23_3_2025\\taskday23_3_2025.client\\src\\app\\admin\\view-voucher\\view-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C32E648C-EF9D-4DD4-BA65-39B2BB2240F0}|taskday23_3_2025.client\\taskday23_3_2025.client.esproj|solutionrelative:taskday23_3_2025.client\\src\\app\\admin\\view-voucher\\view-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32E648C-EF9D-4DD4-BA65-39B2BB2240F0}|taskday23_3_2025.client\\taskday23_3_2025.client.esproj|c:\\users\\orange\\source\\repos\\taskday23_3_2025\\taskday23_3_2025.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C32E648C-EF9D-4DD4-BA65-39B2BB2240F0}|taskday23_3_2025.client\\taskday23_3_2025.client.esproj|solutionrelative:taskday23_3_2025.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32E648C-EF9D-4DD4-BA65-39B2BB2240F0}|taskday23_3_2025.client\\taskday23_3_2025.client.esproj|c:\\users\\orange\\source\\repos\\taskday23_3_2025\\taskday23_3_2025.client\\src\\app\\admin\\add-voucher\\add-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C32E648C-EF9D-4DD4-BA65-39B2BB2240F0}|taskday23_3_2025.client\\taskday23_3_2025.client.esproj|solutionrelative:taskday23_3_2025.client\\src\\app\\admin\\add-voucher\\add-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32E648C-EF9D-4DD4-BA65-39B2BB2240F0}|taskday23_3_2025.client\\taskday23_3_2025.client.esproj|c:\\users\\orange\\source\\repos\\taskday23_3_2025\\taskday23_3_2025.client\\src\\app\\admin\\view-voucher\\view-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C32E648C-EF9D-4DD4-BA65-39B2BB2240F0}|taskday23_3_2025.client\\taskday23_3_2025.client.esproj|solutionrelative:taskday23_3_2025.client\\src\\app\\admin\\view-voucher\\view-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay23_3_2025\\taskday23_3_2025.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "taskday23_3_2025.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay23_3_2025\\taskday23_3_2025.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "taskday23_3_2025.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T22:10:13.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "edit-voucher.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay23_3_2025\\taskday23_3_2025.client\\src\\app\\Admin\\edit-voucher\\edit-voucher.component.html",
+              "RelativeDocumentMoniker": "taskday23_3_2025.client\\src\\app\\Admin\\edit-voucher\\edit-voucher.component.html",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay23_3_2025\\taskday23_3_2025.client\\src\\app\\Admin\\edit-voucher\\edit-voucher.component.html",
+              "RelativeToolTip": "taskday23_3_2025.client\\src\\app\\Admin\\edit-voucher\\edit-voucher.component.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T22:07:15.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "edit-voucher.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay23_3_2025\\taskday23_3_2025.client\\src\\app\\Admin\\edit-voucher\\edit-voucher.component.ts",
+              "RelativeDocumentMoniker": "taskday23_3_2025.client\\src\\app\\Admin\\edit-voucher\\edit-voucher.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay23_3_2025\\taskday23_3_2025.client\\src\\app\\Admin\\edit-voucher\\edit-voucher.component.ts",
+              "RelativeToolTip": "taskday23_3_2025.client\\src\\app\\Admin\\edit-voucher\\edit-voucher.component.ts",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T21:47:14.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay23_3_2025\\taskday23_3_2025.client\\src\\index.html",
+              "RelativeDocumentMoniker": "taskday23_3_2025.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay23_3_2025\\taskday23_3_2025.client\\src\\index.html",
+              "RelativeToolTip": "taskday23_3_2025.client\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T21:41:45.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "add-voucher.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay23_3_2025\\taskday23_3_2025.client\\src\\app\\Admin\\add-voucher\\add-voucher.component.html",
+              "RelativeDocumentMoniker": "taskday23_3_2025.client\\src\\app\\Admin\\add-voucher\\add-voucher.component.html",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay23_3_2025\\taskday23_3_2025.client\\src\\app\\Admin\\add-voucher\\add-voucher.component.html",
+              "RelativeToolTip": "taskday23_3_2025.client\\src\\app\\Admin\\add-voucher\\add-voucher.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T21:40:35.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dashboard.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay23_3_2025\\taskday23_3_2025.client\\src\\app\\Admin\\dashboard\\dashboard.component.html",
+              "RelativeDocumentMoniker": "taskday23_3_2025.client\\src\\app\\Admin\\dashboard\\dashboard.component.html",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay23_3_2025\\taskday23_3_2025.client\\src\\app\\Admin\\dashboard\\dashboard.component.html*",
+              "RelativeToolTip": "taskday23_3_2025.client\\src\\app\\Admin\\dashboard\\dashboard.component.html*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T21:29:23.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay23_3_2025\\taskday23_3_2025.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "taskday23_3_2025.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay23_3_2025\\taskday23_3_2025.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "taskday23_3_2025.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T22:11:55.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "view-voucher.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay23_3_2025\\taskday23_3_2025.client\\src\\app\\Admin\\view-voucher\\view-voucher.component.ts",
+              "RelativeDocumentMoniker": "taskday23_3_2025.client\\src\\app\\Admin\\view-voucher\\view-voucher.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay23_3_2025\\taskday23_3_2025.client\\src\\app\\Admin\\view-voucher\\view-voucher.component.ts",
+              "RelativeToolTip": "taskday23_3_2025.client\\src\\app\\Admin\\view-voucher\\view-voucher.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T21:36:21.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay23_3_2025\\taskday23_3_2025.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "taskday23_3_2025.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay23_3_2025\\taskday23_3_2025.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "taskday23_3_2025.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T21:30:20.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "add-voucher.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay23_3_2025\\taskday23_3_2025.client\\src\\app\\Admin\\add-voucher\\add-voucher.component.ts",
+              "RelativeDocumentMoniker": "taskday23_3_2025.client\\src\\app\\Admin\\add-voucher\\add-voucher.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay23_3_2025\\taskday23_3_2025.client\\src\\app\\Admin\\add-voucher\\add-voucher.component.ts",
+              "RelativeToolTip": "taskday23_3_2025.client\\src\\app\\Admin\\add-voucher\\add-voucher.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T21:39:41.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "service.service.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay23_3_2025\\taskday23_3_2025.client\\src\\app\\service.service.ts",
+              "RelativeDocumentMoniker": "taskday23_3_2025.client\\src\\app\\service.service.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay23_3_2025\\taskday23_3_2025.client\\src\\app\\service.service.ts",
+              "RelativeToolTip": "taskday23_3_2025.client\\src\\app\\service.service.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T21:35:10.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "view-voucher.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\TaskDay23_3_2025\\taskday23_3_2025.client\\src\\app\\Admin\\view-voucher\\view-voucher.component.html",
+              "RelativeDocumentMoniker": "taskday23_3_2025.client\\src\\app\\Admin\\view-voucher\\view-voucher.component.html",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\TaskDay23_3_2025\\taskday23_3_2025.client\\src\\app\\Admin\\view-voucher\\view-voucher.component.html",
+              "RelativeToolTip": "taskday23_3_2025.client\\src\\app\\Admin\\view-voucher\\view-voucher.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T21:34:51.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

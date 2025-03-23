@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TaskDay23_3_2025.Server.props" />
+</Project>

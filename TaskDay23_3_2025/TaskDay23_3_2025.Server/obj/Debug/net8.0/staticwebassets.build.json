@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "XbIO7QxVHn2YNcEk6S8PX/3yOJlWp6WkEgcoyt41q98=",
+  "Source": "TaskDay23_3_2025.Server",
+  "BasePath": "_content/TaskDay23_3_2025.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Orange\\source\\repos\\TaskDay23_3_2025\\taskday23_3_2025.client\\taskday23_3_2025.client.esproj",
+      "Version": 2,
+      "Source": "taskday23_3_2025.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
